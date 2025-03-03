@@ -90,5 +90,5 @@ if uploaded_files:
                 mime=mime_type
             )
 
-st.sucess("🎉 All files processed sucessfully!")
+st.success("🎉 All files processed sucessfully!")
 
